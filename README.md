@@ -5,4 +5,4 @@ I'm proficient in languages such as C++ and Python and I have a strong foundatio
 HTML, CSS, and JavaScript. I'm always eager to learn and improve my skills,and I enjoy
 participating in hackathons and coding challenges in my free time. If you have a project that
 you think I might be able to contribute to, or if you just want to chat about web development, programming or tech, don't hesitate to reach out.
- I'm always happy to connect with others in the developer community.
+ I'm always happy to connect with others in the community.
