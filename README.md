@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://github.com/sachith-d/sachith-d/blob/main/programmerDeveloper_1.png" width="100%" height="100%"> </p>
+
 ## Hello! I am Sachith.
 
 I'm a self-taught programmer with a passion for building cool things with code.
