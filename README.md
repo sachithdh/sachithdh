@@ -1,4 +1,4 @@
-### Hello! I am Sachith.
+<h1> Hello! I am Sachith.</h1>
 
 I'm a self-taught programmer with a passion for building cool things with code.
 I'm proficient in languages such as C++ and Python and I have a strong foundation in
