@@ -68,4 +68,4 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 </div> 
 <br>
  
-![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=tokyonight&hide=contribs,issues)
+![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues)
