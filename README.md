@@ -18,11 +18,12 @@ const sachith = {
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=sachith-d&&style=flat-square" align="center" />
-<div> <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="200px" align="right" style="margin-left:500px;"></div>
+<img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="200px" align="right" style="margin-left:500px;">
  
 💻 Computer Science undergraduate <br/>
 🌱 I’m currently learning Blockchain <br/>
-📫 Reach me <a href="mailto:sacheeeinfo@gmail.com">sacheeeinfo@gmail.com</a>
+📫 Reach me <a href="mailto:sacheeeinfo@gmail.com">sacheeeinfo@gmail.com</a> <br/>
+🎤 Rap music lover
 
 <br><br>
 <br/>  
