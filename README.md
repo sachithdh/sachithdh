@@ -3,7 +3,7 @@
 ## Hello! I am Sachith.
 <br/>
 I'm a self-taught programmer.
-I'm proficient in languages such as C and Python and I have a strong foundation in
+I'm proficient in languages such as C, Python and PHP and I have a strong foundation in
 HTML, CSS, and JavaScript.If you have a project that
 you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.
 <br/>
@@ -14,9 +14,9 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 <br><br>
 
 <h2>- Skills </h2>
+
 <div align="center">
- 
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 ### Frontend 
 <div align="center">
@@ -29,25 +29,18 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="50%">
  
 ### Backend
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="Express.js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="C" height="50" />
 </div>
 </td>
 
-<td valign="top" width="33%">
- 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-</div>
-</td>
 </tr></table>
 </div>
 
