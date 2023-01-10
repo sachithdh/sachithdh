@@ -9,7 +9,7 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 <br/>
 <br/>
 - 🌱 I’m currently learning Blockchain </br>
-- 📫 Reach me [sacheeeinfo@gmail.com](mailto:sacheeeinfo@gmail.com)
+- 📫 Reach me <a href="mailto:sacheeeinfo@gmail.com">sacheeeinfo@gmail.com</a>
 
 <br><br>
 
