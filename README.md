@@ -1,9 +1,12 @@
 <p align="center"> <img src="https://github.com/sachith-d/sachith-d/blob/main/programmerDeveloper_1.png" width="100%" height="100%"> </p>
 
 ## Hello! I am Sachith.
-🌱 I’m currently learning Blockchain </br>
-📫 Reach me sacheeeinfo@gmail.com
-</br></br>
+<br/>
+- 🌱 I’m currently learning Blockchain </br>
+- 📫 Reach me sacheeeinfo@gmail.com
+<br><br>
+
+<h2>- Skills </h2>
 <div align="center">
  
 <table><tr><td valign="top" width="33%">
