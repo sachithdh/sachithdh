@@ -1,13 +1,9 @@
-<p align="center"> <img src="https://github.com/sachith-d/sachith-d/blob/main/programmerDeveloper_1.png" width="100%" height="100%"> </p>
+
 
 ## Hello! I am Sachith.
 <br/>
-I'm a self-taught programmer.
-I'm proficient in languages such as C, Python and PHP and I have a strong foundation in
-HTML, CSS, and JavaScript.If you have a project that
-you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.
-<br/>
-<br/>
+<div> <img src="https://github.com/sachith-d/sachith-d/blob/main/happy-spaceman.gif" width="200px" align="right"></div>
+
 - 🌱 I’m currently learning Blockchain </br>
 - 📫 Reach me <a href="mailto:sacheeeinfo@gmail.com">sacheeeinfo@gmail.com</a>
 
