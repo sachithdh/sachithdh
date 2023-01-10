@@ -16,7 +16,7 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 <h2>- Skills </h2>
 
 <div align="center">
-<table width="100%"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 ### Frontend 
 <div align="center">
@@ -29,7 +29,7 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="100%">
  
 ### Backend
 
