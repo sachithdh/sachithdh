@@ -9,7 +9,7 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 <br/>
 <br/>
 - 🌱 I’m currently learning Blockchain </br>
-- 📫 Reach me sacheeeinfo@gmail.com
+- 📫 Reach me [sacheeeinfo@gmail.com](mailto:sacheeeinfo@gmail.com)
 
 <br><br>
 
@@ -66,6 +66,6 @@ you think I might be able to contribute to, or if you just want to chat , don't 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sachith-d&&style=flat-square" align="center" />
 </div> 
-
+<br>
  
 ![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=tokyonight&hide=contribs,issues)
