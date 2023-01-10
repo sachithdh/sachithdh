@@ -2,8 +2,15 @@
 
 ## Hello! I am Sachith.
 <br/>
+I'm a self-taught programmer.
+I'm proficient in languages such as C and Python and I have a strong foundation in
+HTML, CSS, and JavaScript.If you have a project that
+you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.
+<br/>
+<br/>
 - 🌱 I’m currently learning Blockchain </br>
 - 📫 Reach me sacheeeinfo@gmail.com
+
 <br><br>
 
 <h2>- Skills </h2>
@@ -29,7 +36,7 @@
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="Express.js" height="50" /> 
 </div>
 </td>
 
