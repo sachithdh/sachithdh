@@ -27,7 +27,7 @@ const sachith = {
 
 <br><br>
 <br/>  
-
+[![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 ![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues)
 <br/><br/>
 
