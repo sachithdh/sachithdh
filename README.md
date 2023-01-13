@@ -25,9 +25,10 @@ const sachith = {
 📫 Reach me <a href="mailto:sacheeeinfo@gmail.com">sacheeeinfo@gmail.com</a> <br/>
 🎤 Rap music lover
 
-<br><br>
-<br/>  
+<br><br><br/>  
 ![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues)
 <br/><br/>
 
 <b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
+<br><br><br/>
+> You affect the world by what you browse - Tim Berners-Lee
