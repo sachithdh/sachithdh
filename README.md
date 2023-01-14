@@ -7,7 +7,7 @@ const sachith = {
   beginner: [Blockchain, Java],
   editor: [VS Code, Android Studio],
   services: [MySQL, MSSQL],
-  architecture: ["full-stack-development", "quality-assurance"],
+  architecture: ["full-stack-development"],
   Other: ["Write Web-content & Articles"]
 }
 ```
