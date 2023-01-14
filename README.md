@@ -3,7 +3,7 @@
 
 ```javascript
 const sachith = {
-  skills: [HTML, CSS, Javascript, PHP, SQL, C, C#, Linux],
+  skills: [HTML, CSS, Javascript, PHP, SQL, C, C#, bash, Linux],
   beginner: [Blockchain, Java],
   editor: [VS Code, Android Studio],
   services: [MySQL, MSSQL],
