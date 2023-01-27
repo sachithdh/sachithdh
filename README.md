@@ -30,5 +30,4 @@ const sachith = {
 <br/><br/>
 
 <b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
-<br><br><br/>
-> You affect the world by what you browse - Tim Berners-Lee
+
