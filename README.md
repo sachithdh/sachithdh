@@ -30,7 +30,7 @@ const sachith = {
 
 <br><br><br/>
 
-![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues)
+![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true)
 <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
 <br/><br/>
 
