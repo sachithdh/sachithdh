@@ -28,11 +28,9 @@ const sachith = {
 [![sachith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sachith-d&theme=github-compact)](https://github.com/sachith-d/github-readme-activity-graph)
 
 <br><br><br/>
-<table>
-<tr>
-<td> ![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues) </td>
-<td> <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;"> </td>
-</tr>
+
+![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues)
+<img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
 <br/><br/>
 
 <b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
