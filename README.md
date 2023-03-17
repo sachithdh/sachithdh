@@ -15,10 +15,14 @@ const sachith = {
 <img src="https://komarev.com/ghpvc/?username=sachith-d&&style=flat-square" align="center" />
 <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="100px" align="right" style="margin-left:500px;">
  
+<!--
 💻 Computer Science undergraduate <br/>
 🌱 I’m currently learning Blockchain <br/>
 📫 Reach me <a href="mailto:sacheeeinfo@gmail.com">sacheeeinfo@gmail.com</a> <br/>
 🎤 Rap music lover
+-->
+### 📈 GitHub Activity Graph:
+[![sachith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sachith-d&theme=github-compact)](https://github.com/sachith-d/github-readme-activity-graph)
 
 <br><br><br/>  
 ![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues)
