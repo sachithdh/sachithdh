@@ -7,14 +7,14 @@ const sachith = {
   skills: [HTML, CSS, PHP, SQL, C, C++, Bash, Linux],
   beginner: [Blockchain, Java],
   editor: [VS Code, Android Studio, Pycharm],
-  services: [MySQL, MSSQL],
   architecture: ["full-stack-development"],
   Other: ["Write Web-content & Articles"]
 }
 ```
+<!--
 ### 📈 GitHub Activity Graph:
 [![sachith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sachith-d&theme=github-compact)](https://github.com/sachith-d/github-readme-activity-graph)
-
+-->
 <center> <img src="https://komarev.com/ghpvc/?username=sachith-d&&style=flat-square" align="center" /> </center>
 
 
