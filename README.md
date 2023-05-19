@@ -18,7 +18,7 @@ const sachith = {
 <center> <img src="https://komarev.com/ghpvc/?username=sachith-d&&style=flat-square" align="center" /> </center>
 
 
-![Header](https://raw.githubusercontent.com/sachith-d/sachith-d/main/Images/header_.png)
+![Header](https://raw.githubusercontent.com/sacheex/sacheex/main/Images/header_.png)
 
 <!--
 💻 Computer Science undergraduate <br/>
@@ -30,7 +30,7 @@ const sachith = {
 
 <br><br><br/>
 
-![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachith-d&show_icons=true&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true)
+![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sacheex&show_icons=true&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true)
 <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
 <br/><br/>
 
