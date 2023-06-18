@@ -4,7 +4,7 @@
 
 ```javascript
 const sachith = {
-  skills: [HTML, CSS, PHP, SQL, C, C++, Bash, Linux],
+  skills: [Python, C, C++, Kotlin, SQL, JavaScript, HTML, CSS, PHP, Bash, Linux],
   beginner: [Blockchain, Java],
   editor: [VS Code, Android Studio, Pycharm],
   architecture: ["full-stack-development"],
