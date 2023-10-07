@@ -17,8 +17,11 @@ const sachith = {
 -->
 <center> <img src="https://komarev.com/ghpvc/?username=sachith-d&&style=flat-square" align="center" /> </center>
 
+[![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex)
 
-![Header](https://raw.githubusercontent.com/sacheex/sacheex/main/Images/header_.png)
+
+
+
 
 <!--
 💻 Computer Science undergraduate <br/>
@@ -32,7 +35,15 @@ const sachith = {
 
 ![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sacheex&show_icons=true&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true)
 <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
+
+
+
+
+
 <br/><br/>
 
 <b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
+
+![Header](https://raw.githubusercontent.com/sacheex/sacheex/main/Images/header_.png)
+
 
