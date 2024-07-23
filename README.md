@@ -32,7 +32,7 @@ const sachith = {
 
 <br><br><br/>
 
-![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true)
+![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachithdh&layout=compact&theme=transparent)
 <!--
 <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
 -->
