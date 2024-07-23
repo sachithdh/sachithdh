@@ -11,10 +11,9 @@ const sachith = {
   Other: ["Write Web-content & Articles"]
 }
 ```
-<!--
-### 📈 GitHub Activity Graph:
-[![sachith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sachithdh&theme=github-compact)](https://github.com/sachithdh/github-readme-activity-graph)
--->
+[![Sachith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachithdh&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
+
+
 <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
 
 [![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex)
