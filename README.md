@@ -13,6 +13,9 @@ const sachith = {
 ```
 [![Sachith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachithdh&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
 
+<br><br>
+![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachithdh&layout=compact&theme=transparent&bg_color=00000000)
+<br><br>
 
 <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
 
@@ -32,7 +35,7 @@ const sachith = {
 
 <br><br><br/>
 
-![Sachith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachithdh&layout=compact&theme=transparent)
+
 <!--
 <img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
 -->
