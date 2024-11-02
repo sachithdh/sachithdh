@@ -18,19 +18,8 @@ const sachith = {
 <br><be>
 
 <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
-
 <!--
 [![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex)
--->
-
-
-
-
-<!--
-💻 Computer Science undergraduate <br/>
-🌱 I’m currently learning Blockchain <br/>
-📫 Reach me <a href="mailto:sacheeeinfo@gmail.com">sacheeeinfo@gmail.com</a> <br/>
-🎤 Rap music lover
 -->
 
 
@@ -47,7 +36,7 @@ const sachith = {
 <br/><br/>
 
 <b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
-
+<!--
 ![Header](https://raw.githubusercontent.com/sachithdh/sachithdh/main/Images/header_.png)
-
+-->
 
