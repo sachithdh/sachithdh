@@ -35,8 +35,9 @@ const sachith = {
 
 <br/><br/>
 
-<b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
 <!--
+<b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
+
 ![Header](https://raw.githubusercontent.com/sachithdh/sachithdh/main/Images/header_.png)
 -->
 
