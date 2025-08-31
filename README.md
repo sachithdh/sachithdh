@@ -1,7 +1,7 @@
 ## Hello! I am Sachith.
 
 
-
+<!--
 ```javascript
 const sachith = {
   skills: [Python, C, C++, SQL, Scala, JavaScript, HTML, CSS, PHP, Bash],
@@ -11,6 +11,7 @@ const sachith = {
   Other: ["Write Web-content & Articles"]
 }
 ```
+-->
 [![Sachith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachithdh&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
 
 <br><br>
