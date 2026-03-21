@@ -22,7 +22,8 @@ const sachith = {
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachithdh&theme=transparent&bg_color=00000000" alt="sachithdh" /></p>
 <br>
 
-<!-- <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
+ <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
+<!--
 [![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex) -->
 
 
