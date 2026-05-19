@@ -1,7 +1,5 @@
 ## Hello! I am Sachith.
 
-
-<!--
 ```javascript
 const sachith = {
   skills: [Python, C, C++, SQL, Scala, JavaScript, HTML, CSS, PHP, Bash],
@@ -11,14 +9,19 @@ const sachith = {
   Other: ["Write Web-content & Articles"]
 }
 ```
+<!--
+![Header](https://raw.githubusercontent.com/sachithdh/sachithdh/main/Images/header_.png)
 -->
 [![Sachith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachithdh&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
 
 <br><br>
 ![Sachith's GitHub stats](https://github-stats-extended.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sachithdh&layout=compact&theme=transparent&bg_color=00000000&hide_border=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachithdh&theme=transparent&bg_color=00000000&hide_border=true" alt="sachithdh" />
 
+
+<center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachithdh&theme=transparent&bg_color=00000000&hide_border=true" alt="sachithdh" />
+</center>
  <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
 <!--
 [![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex) -->
@@ -39,6 +42,5 @@ const sachith = {
 <!--
 <b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
 
-![Header](https://raw.githubusercontent.com/sachithdh/sachithdh/main/Images/header_.png)
 -->
 
