@@ -13,6 +13,12 @@
 
 </div>
 
+<div align="center>
+ 
+Computer Science Undergratuate | Software Engineer 
+
+</div>
+
 ---
 
 <div align="center">
@@ -40,7 +46,7 @@
 </div>
 
 ---
-
+<!--
 ```bash
 ┌──(sachith㉿github)-[~/profile]
 └─$ cat about.json
@@ -116,4 +122,3 @@ stack/
 <b><i>If you have a project that you think I might be able to contribute to, or if you just want to chat , don't hesitate to reach out.</i></b>
 
 -->
-
