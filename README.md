@@ -1,40 +1,113 @@
-## Hello! I am Sachith.
+<div align="center">
 
-```javascript
-const sachith = {
-  skills: [Python, C, C++, SQL, Scala, JavaScript, HTML, CSS, PHP, Bash],
-  beginner: ["Machine learning", "Java", "Kotlin"],
-  editor: ["VS Code", "Android Studio", Pycharm, Vim],
-  architecture: ["full-stack-development"], 
-  Other: ["Write Web-content & Articles"]
-}
 ```
-<!--
-![Header](https://raw.githubusercontent.com/sachithdh/sachithdh/main/Images/header_.png)
--->
-[![Sachith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachithdh&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
+ ███████╗ █████╗  ██████╗██╗  ██╗██╗████████╗██╗  ██╗
+ ██╔════╝██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝██║  ██║
+ ███████╗███████║██║     ███████║██║   ██║   ███████║
+ ╚════██║██╔══██║██║     ██╔══██║██║   ██║   ██╔══██║
+ ███████║██║  ██║╚██████╗██║  ██║██║   ██║   ██║  ██║
+ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-<br><br>
-![Sachith's GitHub stats](https://github-stats-extended.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&background=00000000&center=true&vCenter=true&width=600&lines=sachithdh%40github%3A~%24+whoami;%3E+Software+Engineer+%2F+CS+Undergrad;%3E+Full-Stack+%7C+System+Design)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachithdh&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachithdh&theme=transparent&bg_color=00000000&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Sachith's GitHub stats](https://github-stats-extended.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true)
+&nbsp;
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sachithdh&layout=compact&theme=transparent&bg_color=00000000&hide_border=true)
 
+</div>
 
-<center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachithdh&theme=transparent&bg_color=00000000&hide_border=true" alt="sachithdh" />
-</center>
- <center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
-<!--
-[![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex) -->
+---
+
+```bash
+┌──(sachith㉿github)-[~/profile]
+└─$ cat about.json
+{
+  "name"        : "Sachith",
+  "role"        : "Software Engineer && CS Undergrad",
+  "focus"       : ["Full-Stack Development", "Microservices", "System Design"],
+  "currently"   : "Building things that (sometimes) don't break in prod",
+  "os"          : "Linux — because I enjoy suffering",
+  "uptime"    : "████████████████████ 100% ☕"
+}
+```
 
 
-<br><br><br/>
+```bash
+┌──(sachith㉿github)-[~/stack]
+└─$ tree .
+
+stack/
+├── languages/
+│   ├── Python  JavaScript  TypeScript
+│   ├── C  C++  Scala
+│   └── SQL  PHP  Bash
+│
+├── frontend/
+│   ├── React  Next.js
+│   └── HTML  CSS  TailwindCSS
+│
+├── backend/
+│   ├── NestJS  Django  SpringBoot
+│   └── ExpressJS  REST_API
+│
+├── databases/
+│   └── PostgreSQL  MySQL  MongoDB  Redis
+│
+├── devops/
+│   ├── Docker  Kubernetes  Nginx
+│   ├── Grafana  Prometheus  Jenkins
+│   └── GitHub_Actions  CI/CD  Linux
+│
+└── tools/
+    ├── VSCode  Git  GitHub  GitLab
+    └── Postman  Swagger  Firebase  Supabase
+```
+
+---
 
 
-<!--
-<img src="https://github.com/sachith-d/sachith-d/blob/main/Images/happy-spaceman.gif" width="120px" align="right" style="margin-left:500px;">
--->
+```bash
+┌──(sachith㉿github)-[~]
+└─$ tail -1 /var/log/auth.log
 
+[INFO]  Session opened for user sachithdh
+[INFO]  Stack loaded successfully.
+[INFO]  Commits incoming...
+[WARN]  Coffee reserves low — performance may degrade.
+```
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sachithdh&style=flat-square&color=00ff41&label=PROFILE+VIEWS)
+&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?color=00ff41&label=PUBLIC+REPOS&labelColor=0d1117&query=%24.public_repos&url=https://api.github.com/users/sachithdh&style=flat-square)
+&nbsp;
+![Followers](https://img.shields.io/badge/dynamic/json?color=00ff41&label=FOLLOWERS&labelColor=0d1117&query=%24.followers&url=https://api.github.com/users/sachithdh&style=flat-square)
+
+</div>
 
 
 <br/><br/>
