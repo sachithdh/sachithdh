@@ -17,7 +17,7 @@
  
 
 ---
-
+<!--
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachithdh&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
@@ -25,7 +25,7 @@
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachithdh&theme=transparent&bg_color=00000000&hide_border=true)
